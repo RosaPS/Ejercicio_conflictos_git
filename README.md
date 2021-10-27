@@ -5,15 +5,14 @@
 
 
 # Presentación
-=======
+
 # Trebuchet Medieval
 ### El mejor trebuchet de la epoca!
 
 # *PRESENTACIÓN*
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
+
+
 # Table of contents
 1. [Presentación](#introduction)
 2. [El proyecto](#proyecto)
@@ -80,14 +79,11 @@ Como hacer la trebuchet medieval
 - Paso 13: Adjuntar hardware y peso
 - Paso 14: Cortar la honda
 - Paso 15: Atar los cables
-=======
->>>>>>> d143879c6f1c1c163c4dae2a1c051d37f9a25ee5
- EL PROYECTO | INTRUCCIONES OPERACIONALES |
--------------| ----------------------------|
-El motivo de este proyecto ha sido construir un trebuchet para lanzar cosas que explotan en el aire, como en el vídeo de Youtube. Ha sido una experiencia muy buena y gratificante. LLena de aprendizaje <3 | |
+
+
 
 # *Instalación*
-==============
+
 #### Cómo instalar una catapulta
 -------------------------
 ~~~
@@ -108,12 +104,12 @@ Por otro lado iremos montando nuestro brazo lanzadera y asegurandonos bien que t
 
 ##### Agradecimientos
 
-* Javier SAnchez Rios
-- Marta Sanchez De Haro
-- David Picó
-- SEr humano
-- Gatetes y perretes
-+ Los árboles de la madera
+* Javier Sanchez Rios
+* Marta Sanchez 
+* David Picó
+* Ser humano
+* Gatetes y perretes
+* Los árboles de la madera
 
 
 

@@ -1,8 +1,17 @@
+<<<<<<< HEAD
+# Ejercicio_conflictos_git
+
+![Imagen gatete](img/gatege.jpeg "Gato bonito")
+
+
+# Presentación
+=======
 # Trebuchet Medieval
 ### El mejor trebuchet de la epoca!
 
 # *PRESENTACIÓN*
 
+<<<<<<< HEAD
 # Table of contents
 1. [Presentación](#introduction)
 2. [El proyecto](#proyecto)
@@ -69,4 +78,41 @@ Como hacer la trebuchet medieval
 - Paso 13: Adjuntar hardware y peso
 - Paso 14: Cortar la honda
 - Paso 15: Atar los cables
+=======
+ EL PROYECTO | INTRUCCIONES OPERACIONALES |
+-------------| ----------------------------|
+El motivo de este proyecto ha sido construir un trebuchet para lanzar cosas que explotan en el aire, como en el vídeo de Youtube. Ha sido una experiencia muy buena y gratificante. LLena de aprendizaje <3 | |
+>>>>>>> 13d7e1f7041614bd73df9c630320c614c5e2bf10
+
+# *Instalación*
+==============
+#### Cómo instalar una catapulta
+-------------------------
+~~~
+Para instalar una catapulta, necesitaremos posar sus cuatro puntos de apoyo en un suelo duro. Debido a su elevado peso, cuánto más suro y estable sea el suelo, más aguante y precisión tendrá nuestra catapulta. 
+Empezaremos aliniando las pattas con los ejes de sujección. Apretaremos bien fuertee los tornillos de unión de todas las escucadras de madera y por último instalaremos el eje central desde donde fijaremos nuestra goma elástica para tensar la lanzadera.
+
+Por otro lado iremos montando nuestro brazo lanzadera y asegurandonos bien que todos los tornillos y todos nuestros ejes están bien fijados. Solo así conseguiremos más precisión en el tiro.
+
+~~~
+
+**************
+
+##### Aquí un ejemplo 
+
+
+
+![Imagen catapulta](img/Trebuchet.jpg "Trebuchet")
+
+##### Agradecimientos
+
+* Javier SAnchez Rios
+- Marta Sanchez De Haro
+- David Picó
+- SEr humano
+- Gatetes y perretes
++ Los árboles de la madera
+
+
+>>>>>>> cfb4f0678bddc432b1bc04bb381c23ebd3950ebe
 

@@ -36,6 +36,14 @@ Por otro lado iremos montando nuestro brazo lanzadera y asegurandonos bien que t
 
 ![Imagen catapulta](img/Trebuchet.jpg "Trebuchet")
 
+##### Agradecimientos
+
+* Javier SAnchez Rios
+- Marta Sanchez De Haro
+- David Picó
+- SEr humano
+- Gatetes y perretes
++ Los árboles de la madera
 
 
 

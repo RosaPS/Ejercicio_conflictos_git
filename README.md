@@ -15,8 +15,8 @@
 # Table of contents
 1. [Presentación](#introduction)
 2. [El proyecto](#proyecto)
-3. [Instrucciones operacionales](#paragraph2)
-4. [Materiales](#subparagraph1)
+3. [Instrucciones operacionales](#instrucciones)
+4. [Materiales](#materiales)
     1. [Herramientas](#Herramientas)
     2. [Pasos](#Pasos)
 
